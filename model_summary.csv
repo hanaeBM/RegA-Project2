@@ -1,0 +1,2 @@
+gamma_0,target_ratio,freq_aic,freq_bic,sev_aic,sev_bic,config_freq,config_sev,test_freq_success,test_sev_success
+39.56757530478747,0.9,99.45850372426713,-24.43704711409235,272.08311854122695,-4.952059362647219,"{'NoPGroup': 'v1_simple', 'ActivityGroup': 'v4_minimal', 'FinancialRatingGroup': 'v4_binary', 'TravellingAreaGroup': 'v1_simple'}","{'NoPGroup': 'v1_simple', 'ActivityGroup': 'v4_minimal', 'FinancialRatingGroup': 'v4_binary', 'TravellingAreaGroup': 'v1_simple'}",True,True
